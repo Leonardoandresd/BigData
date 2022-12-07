@@ -1,0 +1,1 @@
+En esta ocasión tomaremos Datos sobre el Mundial Vigente de Fútbol, Qatar 2022, para ver las puntuaciones de los que Clasifican a la siguiente Fase.
